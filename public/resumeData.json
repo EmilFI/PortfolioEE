@@ -4,7 +4,7 @@
     "occupation": "ICT student",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "I'm Emil, a Finnish student from Turku studying ICT at the Turun ammatti-instituutti. In this portfolio you'll find some of my projects and skills which I have developed during my studies.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "emilekman38@gmail.com",
     "phone": "0401341778",
@@ -48,10 +48,10 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Turun ammatti-instituutti",
+        "degree": "Information and communication technologies",
+        "graduated": "Expected early 2022",
+        "description": "Technology has been an essential part of my life. I started programming in my mid teens and I got to know the beauty in the logical thinking and problem-solving aspect in math and science. In 2019 I enrolled into an ICT degree, which I will soon finish."
       },
       {
         "school": "School #1 Maybe College?",
