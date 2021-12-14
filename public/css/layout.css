@@ -70,7 +70,7 @@ header .banner-text h3 {
    color: #A8A8A8;
    margin: 0 auto;
    width: 70%;
-   text-shadow: 7px 9px 5px rgba(0, 0, 0, .5);
+   text-shadow: 3px 3px 2px rgba(0, 0, 0, .5);
 /*Lagt till skugga på texten*/
 }
 header .banner-text h3 span,

@@ -3,8 +3,8 @@
     "name": "Emil Ekman",
     "occupation": "ICT student",
     "description": "",
-    "image": "profilepic.jpg",
-    "bio": "I'm Emil, a Finnish student from Turku studying ICT at the Turun ammatti-instituutti. In this portfolio you'll find some of my projects and skills which I have developed during my studies.",
+    "image": "profilepic.png",
+    "bio": "I am a programmer and I love all things tech, from the latest smart phone to how our brains process data. I also enjoy being outside as much as possible and exploring the natural world.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "emilekman38@gmail.com",
     "phone": "0401341778",
@@ -52,26 +52,26 @@
         "degree": "Information and communication technologies",
         "graduated": "Expected early 2022",
         "description": "Technology has been an essential part of my life. I started programming in my mid teens and I got to know the beauty in the logical thinking and problem-solving aspect in math and science. In 2019 I enrolled into an ICT degree, which I will soon finish."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work": [
       {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Eikman's",
+        "title": "CEO & Founder ",
+        "years": "2021 - Present",
+        "description": "My own business, I do car detailing and washing during the weekends."
       },
       {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Kimito Telefon",
+        "title": "Intern and summer worker",
+        "years": "May - August 2021",
+        "description": "Second year of school, intern and summer worker 2021. IT-support and customer service."
+      },
+      {
+        "company": "Kasnäsudden",
+        "title": "Summer worker",
+        "years": "June 2016 - August 2020",
+        "description": "Customer service and gas station work."
       }
     ],
     "skills": [
