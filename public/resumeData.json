@@ -4,8 +4,8 @@
     "occupation": "ICT student",
     "description": "",
     "image": "profilepic.png",
-    "bio": "I am a programmer and I love all things tech, from the latest smart phone to how our brains process data. I also enjoy being outside as much as possible and exploring the natural world.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "bio": "I am a programmer and I love all things tech, from the latest smart phone to how our brains process data. I also enjoy reading and working out.",
+    "contactmessage": "",
     "email": "emilekman38@gmail.com",
     "phone": "0401341778",
     "address": {
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
         "school": "Turun ammatti-instituutti",
@@ -72,11 +72,7 @@
     "skills": [
       {
         "name": "Git",
-        "level": "25%"
-      },
-      {
-        "name": "Blender",
-        "level": "30%"
+        "level": "20%"
       },
       {
         "name": "ReactJs",
@@ -84,11 +80,11 @@
       },
       {
         "name": "CSS",
-        "level": "65%"
+        "level": "50%"
       },
       {
         "name": "HTML5",
-        "level": "70%"
+        "level": "50%"
       },
       {
         "name": "Python",
@@ -97,6 +93,22 @@
       {
         "name": "C#",
         "level": "40%"
+      },
+      {
+        "name": "Blender",
+        "level": "30%"
+      },
+      {
+        "name": "Swedish",
+        "level": "100%"
+      },
+      {
+        "name": "Finnish",
+        "level": "50%"
+      },
+      {
+        "name": "English",
+        "level": "90%"
       }
     ]
   },
